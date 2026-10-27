@@ -7,6 +7,6 @@
  :profile/id "actor-magatama"
  :profile/default? true
  :bot/name "actor-magatama"
- :bot/brief "etzhayyim/actor-magatama の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-magatama"}]
+ :bot/brief "cloud-itonami/actor-magatama の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-magatama"}]
  :bot/tools-requested []}
