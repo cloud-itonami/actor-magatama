@@ -4,7 +4,7 @@ Standalone Etzhayyim actor for the Shionome flow-analysis and Suimin evidence
 pipeline. Canonical implementation and metadata are CLJC/EDN. External cell
 registration fragments are isolated under `wire/cells/`.
 
-Canonical repository: `etzhayyim/actor-magatama`.
+Canonical repository: `cloud-itonami/actor-magatama`.
 
 Within the Tamaki artificial organism, magatama is a flow-and-evidence
 observation organ. It may describe aggregate regimes, grade population-level
